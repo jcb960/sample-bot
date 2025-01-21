@@ -34,4 +34,4 @@ for cog in os.listdir(r"./cogs"):
             print(f"{cog} can not be loaded:")
             raise e
 
-client.run("Njc1NzczNDMyODU5NzIxNzU4.Xj8ckQ.WuaYAzlWUQEts7TgZslbb75jzjQ")
+client.run("")
